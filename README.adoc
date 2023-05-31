@@ -1,0 +1,3 @@
+= pyusvg
+
+A python wrapper for resvg's parser usvg.
